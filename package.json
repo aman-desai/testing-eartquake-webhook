@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/aman-desai/testing-eartquake-webhook/issues"
   },
-  "homepage": "https://github.com/aman-desai/testing-eartquake-webhook#readme"
+  "homepage": "https://github.com/aman-desai/testing-eartquake-webhook#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
 }
