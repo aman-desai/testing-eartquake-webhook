@@ -1,0 +1,20 @@
+{
+  "name": "testing-eartquake-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aman-desai/testing-eartquake-webhook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aman-desai/testing-eartquake-webhook/issues"
+  },
+  "homepage": "https://github.com/aman-desai/testing-eartquake-webhook#readme"
+}
